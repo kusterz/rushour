@@ -8,29 +8,12 @@ body {
   position: relative;
 }
 
-.synopsis {
-  position: relative;
-  left: 5%;
-  height: 100vh;
-  z-index: 1;
-}
-
-p {
-  color: firebrick;
-  font-size: 15px;
-  font-family: "Arial Black";
-}
-
 img {
 width: 100%;
 }
 
 .logo img {
   height: 90%;
-  width: 100%;
-}
-
-.animation {
   width: 100%;
 }
 
