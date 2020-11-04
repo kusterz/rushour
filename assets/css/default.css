@@ -43,15 +43,15 @@ width: 100%;
   width: 7%;
   position: absolute;
   left: 5%;
-  top: 50%;
+  top: 60%;
   z-index: 5;
 }
 
 .arena {
   width: 7%;
   position: absolute;
-  left: 80%;
-  top: 20%;
+  left: 90%;
+  top: 30%;
   z-index: 5;
 }
 
