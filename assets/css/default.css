@@ -55,6 +55,14 @@ width: 100%;
   z-index: 5;
 }
 
+a {
+  opacity: 50%;
+ )
+  
+a:hover {
+  opacity: 100%;
+ }
+
 .rhsign-1 {
   width: 3%;
   position: absolute;
