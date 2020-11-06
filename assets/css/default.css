@@ -42,18 +42,18 @@ width: 100%;
 }
 
 .spotify {
-  width: 6%;
+  width: 5%;
   position: absolute;
-  left: 80.5%;
-  top: 47.5%;
+  left: 81.5%;
+  top: 48.5%;
   z-index: 0;
 }
 
 .arena {
-  width: 6%;
+  width: 5%;
   position: absolute;
-  left: 87%;
-  top: 94%;
+  left: 88%;
+  top: 95%;
   z-index: 0;
 }
 
