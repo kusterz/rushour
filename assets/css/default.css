@@ -44,17 +44,17 @@ width: 100%;
 .spotify {
   width: 5%;
   position: absolute;
-  left: 10%;
-  top: 40%;
+  left: 8%;
+  top: 45%;
   z-index: 0;
 }
 
 .arena {
-  width: 7%;
+  width: 5%;
   position: absolute;
-  left: 91%;
-  top: 37%;
-  z-index: 5;
+  left: 85%;
+  top: 50%;
+  z-index: 0;
 }
 
 
